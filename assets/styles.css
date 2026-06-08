@@ -207,9 +207,6 @@ h2 {
 }
 
 
-article[lang="zh-Hans"] {
-  display: none;
-}
 
 .site-footer {
   border-top: 1px solid var(--line);
