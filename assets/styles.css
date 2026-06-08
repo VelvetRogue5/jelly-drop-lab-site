@@ -211,6 +211,10 @@ h2 {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(255, 248, 230, 0.92));
 }
 
+article[lang="zh-Hans"] {
+  display: none;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   padding: 28px 16px;
